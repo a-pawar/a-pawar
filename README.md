@@ -1,12 +1,12 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
-
 <h1 align="center">Hi 👋, I'm Anshul Pawar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-pawar&label=Profile%20views&color=0e75b6&style=flat" alt="a-pawar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_anshul_pawar" target="blank"><img src="https://img.shields.io/twitter/follow/_anshul_pawar?logo=twitter&style=for-the-badge" alt="_anshul_pawar" /></a> </p>
 
 - 🌱 I’m currently learning **Java Programming**
 
@@ -16,6 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/_anshul_pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anshul_pawar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anshul-pawar-b7104a1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul-pawar-b7104a1bb" height="30" width="40" /></a>
+<a href="https://fb.com/anshul.pawar.3386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anshul.pawar.3386" height="30" width="40" /></a>
 <a href="https://instagram.com/ans_hul_.0_0._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ans_hul_.0_0._" height="30" width="40" /></a>
 </p>
 
