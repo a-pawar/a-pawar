@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Anshul Pawar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
