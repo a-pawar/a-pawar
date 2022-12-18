@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/_anshul_pawar" target="blank"><img src="https://img.shields.io/twitter/follow/_anshul_pawar?logo=twitter&style=for-the-badge" alt="_anshul_pawar" /></a> </p>
 
-- 🌱 I’m currently learning **Java Programming**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **android**
+- 💬 Ask me about **FrontEnd Dev**
 
 - 📫 How to reach me **anshulpawar100@gmail.com**
 
